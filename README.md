@@ -15,11 +15,11 @@ Web Development · AI Projects · UI-first<br/>
 ---
 
 ### 🧠 What I Do
-I build **clean, secure, and practical software**, with a focus on usability, performance, and real-world impact.
+I build **clean, practical software** with an eye for how things work under the hood — performance, reliability, and real-world use.
 
-- 🌐 Scalable web applications that prioritize clarity and speed  
-- 🤖 AI-powered systems designed for real use cases  
-- 🔐 Ethical hacking and secure web practices  
+- 🌐 Scalable web applications focused on clarity and speed  
+- 🤖 AI-powered systems for real use cases  
+- 🧩 Curious about system internals, edge cases & breaking things (responsibly)  
 - 🎨 Minimal, user-first UI/UX design  
 
 ---
@@ -35,11 +35,11 @@ I build **clean, secure, and practical software**, with a focus on usability, pe
 - **AI Health Application** — Gemini AI–powered health insights platform  
 - **Dementia Awareness Platform** — accessible, support-focused web application  
 - **Hospital Management System** — OOSE-based academic system with modular design  
-- **Secure Messaging Experiments** — encryption concepts and web security testing  
+- **Secure Messaging Experiments** — learning encryption flows & system boundaries  
 - **Nothing-style UI Tools** — interactive, minimal design-focused web utilities  
 
 ---
 
 <p align="center">
-<em>Calm mindset · Clean code · Secure systems</em>
+<em>Calm mindset · Clean code · Curious systems</em>
 </p>
