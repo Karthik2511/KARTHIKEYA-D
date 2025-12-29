@@ -19,7 +19,7 @@
 
 ### 🧰 Tech Stack (quick scan)
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,git,github,linux,mysql,docker,aws,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,azure,react,python,java,c,git,github,linux,mysql,aws,figma&perline=9" />
 </p>
 
 ---
