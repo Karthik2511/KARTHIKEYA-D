@@ -26,7 +26,7 @@ I build **clean, secure, and practical software**, with a focus on usability, pe
 
 ### 🧰 Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,azure,react,python,java,c,git,github,linux,mysql,aws,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,azure,react,python,java,c,git,github,linux,bash,gcp,mysql,aws,figma&perline=8" />
 </p>
 
 ---
