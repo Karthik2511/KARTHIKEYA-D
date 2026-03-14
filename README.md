@@ -1,60 +1,92 @@
-<h2 align="left">Hi 👋! My name is Karthikeya Darisi and I'm a Final-year CSE student from Andhra University, India</h2>
+<div align="center">
 
-###
+<!-- Animated typing intro -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B;I'm+Karthikeya+Darisi;Final+Year+CSE+Student;Web+Developer+%7C+AI+Explorer;I+Build+Things+That+Matter" />
+
+</div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik2511&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik2511&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula" height="150" alt="languages graph" />
+<img height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y2Y3ZqZzE4bXJ0OHd1bWJ3d3lqYzF4OGk5cW52dWhxODd1YzJ1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+## 👨‍💻 About Me
 
-###
+🎓 Final-year **B.Tech CSE student at Andhra University**
+💻 Focused on **Web Development, AI applications, and system-level curiosity**
+🧠 Interested in **how systems work under the hood**
+🚀 Building practical software and experimenting with new tech
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,linux,bash,mysql,git,github,figma,aws,azure" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **AI Health Assistant**
+AI-powered health guidance app using **Google Gemini API**
+
+🔹 **Dementia Awareness Platform**
+Educational and support website for dementia awareness
+
+🔹 **Hospital Management System**
+Object-Oriented Software Engineering academic project
+
+🔹 **Weather Forecast Web App**
+Weather dashboard using **HTML, CSS, JavaScript + API**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=karthik2511&show_icons=true&theme=tokyonight" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik2511&layout=compact&theme=tokyonight" height="165"/>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="mailto:Karthikeya200511@yahoo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/karthikeya-darisi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/karthik2511">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+## 🔗 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/karthikeya-darisi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Karthikeya200511@yahoo.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/karthik2511">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=karthik2511.karthik2511"/>
+
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+✨ <i>Calm mindset • Clean code • Curious systems</i>
+</p>
